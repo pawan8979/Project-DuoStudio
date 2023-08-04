@@ -1,8 +1,11 @@
+@import url("./fonts/PPMori/PPMori.css");
+@import url("./fonts/SuisseIntl/suisseintl-regular.css");
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Gilroy";
+  font-family: "SuisseIntl";
 }
 
 html,

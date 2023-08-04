@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "SuisseIntl";
+  font-weight: 400;
+  font-style: normal;
+  src: url("./suisseintl-regular.otf") format("otf");
+  font-display: swap;
+}
