@@ -2,6 +2,6 @@
   font-family: "SuisseIntl";
   font-weight: 400;
   font-style: normal;
-  src: url("./suisseintl-regular.otf") format("otf");
+  src: url("./suisseintl-regular.otf") format("opentype");
   font-display: swap;
 }
