@@ -1,0 +1,12 @@
+.page2 {
+  min-height: 290vh;
+  width: 100%;
+  position: relative;
+  padding-top: 100px;
+}
+
+.page2 h1 {
+  font-size: 6.8vw;
+  font-weight: 300;
+  margin-left: 100px;
+}

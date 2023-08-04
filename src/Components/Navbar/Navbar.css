@@ -1,0 +1,36 @@
+#nav {
+  height: 55px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+}
+
+#nav #nav-img {
+  height: 24px;
+}
+
+#nav-part2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+#nav #circle {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
+#nav .nav-h4 {
+  font-size: 13px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+#nav .nav-h4:nth-child(1) {
+  border-bottom: 1.5px solid #fff;
+}

@@ -1,0 +1,38 @@
+.page1 {
+  min-height: 100vh;
+  width: 100%;
+  color: #fff;
+}
+
+.page1 h1 {
+  font-size: 7vw;
+  font-weight: 300;
+  font-family: PP mori;
+  margin-top: 12vw;
+  margin-left: 6vw;
+  text-align: center;
+}
+.page1 h2 {
+  font-size: 7vw;
+  font-weight: 300;
+  font-family: PP mori;
+  margin-left: 6vw;
+  text-align: center;
+}
+
+.page1 video {
+  margin-top: 10vw;
+  width: 60%;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.page1 p {
+  text-align: center;
+  max-width: 27em;
+  margin: 0 auto;
+  font-size: clamp(16px, 1.145vw, 22px);
+  line-height: 1.36;
+  letter-spacing: -0.02em;
+}
